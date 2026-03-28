@@ -1,6 +1,6 @@
 package method;
 
-public class MethodOveerloading2 {
+public class MethodOverloading2 {
 
     public static void main(String[] args) {
 
