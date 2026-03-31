@@ -1,3 +1,5 @@
+package programmers;
+
 class Solution {
     public static String solution(String my_string, String overwrite_string, int s) {
         String before = my_string.substring(0, s);
