@@ -1,7 +1,5 @@
 package operator;
 
-import javax.lang.model.SourceVersion;
-
 public class Operator1 {
 
     public static void main(String[] args) {

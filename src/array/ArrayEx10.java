@@ -1,7 +1,5 @@
 package array;
 
-import org.w3c.dom.bootstrap.DOMImplementationRegistry;
-
 import java.util.Scanner;
 
 public class ArrayEx10 {

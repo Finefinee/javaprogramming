@@ -1,9 +1,5 @@
 package array;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
-import java.util.Arrays;
-
 public class ArrayEx9 {
 
     public static void main(String[] args) {

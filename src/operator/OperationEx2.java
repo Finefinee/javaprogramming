@@ -1,7 +1,5 @@
 package operator;
 
-import java.util.Arrays;
-
 public class OperationEx2 {
 
     public static void main(String[] args) {

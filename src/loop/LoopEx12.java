@@ -1,7 +1,5 @@
 package loop;
 
-import java.util.ArrayList;
-
 public class LoopEx12 {
 
     public static void main(String[] args) {
