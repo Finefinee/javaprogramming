@@ -8,3 +8,6 @@ public class AccessEx2 {
 
     }
 }
+
+// 3 메서드 조건문
+// 2 배열 반복문
